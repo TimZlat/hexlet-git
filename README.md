@@ -1,1 +1,1 @@
-"пробный commit"
+'Hello, Hexlet! How are you?'
